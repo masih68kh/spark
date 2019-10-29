@@ -28,13 +28,4 @@ optional arguments:
 ```
 
 
----
-
-## How the app works
-The python script calls a bash script to look for all pdfs in the given directory and its subdirectories recursively and convert them to temporarly `.txt` files using `pdftotext` command.   
-   
-`pdftotext` is an app that is usually installed by default in many Linux distribution. If not, you can install it by:   
-`sudo apt-get update && sudo apt-get install -y xpdf`   
-or    
-`sudo apt-get install poppler-utils`  
-or you can go to their website and download .deb file.
+## the data that the operation is done on, is a corpus of text under "masc_500k_texts"
