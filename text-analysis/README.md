@@ -1,4 +1,4 @@
-# Text Analyzer
+# Text Analyzer using Spark
 This application calculates different parameters associated with a text corpus.  
 The parameters include TF, IDF, TFIDF, and cosine similarity of a text/corpus.
 
@@ -28,4 +28,4 @@ optional arguments:
 ```
 
 
-## the data that the operation is done on, is a corpus of text under "masc_500k_texts"
+### the data that the operation is done on, is a corpus of text under "masc_500k_texts"
