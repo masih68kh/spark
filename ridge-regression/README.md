@@ -10,6 +10,7 @@ This python file runs the file `ParallelRegression.py` for different values of r
 
 This script also plots two seperate plots for each dataset {(big.test,big.train) , (small.test,small.train)} as below:  
 
-error ![alt text](fig_big.png)  
-\lambda
+   error  
+![alt text](fig_big.png)  
+   regularization factor  
 ![alt text](fig_small.png)
